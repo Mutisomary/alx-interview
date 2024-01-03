@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 '''Pascal's Triangle'''
+
+
 def pascal_triangle(n):
     '''Return a list of integers representing pascal's principle'''
     if n <= 0:
